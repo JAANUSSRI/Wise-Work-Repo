@@ -1,0 +1,11 @@
+E:\Wise Work\tutorial\Project1\HRAdministratonAPI\bin\Debug\net9.0\HRAdministratonAPI.deps.json
+E:\Wise Work\tutorial\Project1\HRAdministratonAPI\bin\Debug\net9.0\HRAdministratonAPI.dll
+E:\Wise Work\tutorial\Project1\HRAdministratonAPI\bin\Debug\net9.0\HRAdministratonAPI.pdb
+E:\Wise Work\tutorial\Project1\HRAdministratonAPI\obj\Debug\net9.0\HRAdministratonAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wise Work\tutorial\Project1\HRAdministratonAPI\obj\Debug\net9.0\HRAdministratonAPI.AssemblyInfoInputs.cache
+E:\Wise Work\tutorial\Project1\HRAdministratonAPI\obj\Debug\net9.0\HRAdministratonAPI.AssemblyInfo.cs
+E:\Wise Work\tutorial\Project1\HRAdministratonAPI\obj\Debug\net9.0\HRAdministratonAPI.csproj.CoreCompileInputs.cache
+E:\Wise Work\tutorial\Project1\HRAdministratonAPI\obj\Debug\net9.0\HRAdministratonAPI.dll
+E:\Wise Work\tutorial\Project1\HRAdministratonAPI\obj\Debug\net9.0\refint\HRAdministratonAPI.dll
+E:\Wise Work\tutorial\Project1\HRAdministratonAPI\obj\Debug\net9.0\HRAdministratonAPI.pdb
+E:\Wise Work\tutorial\Project1\HRAdministratonAPI\obj\Debug\net9.0\ref\HRAdministratonAPI.dll
