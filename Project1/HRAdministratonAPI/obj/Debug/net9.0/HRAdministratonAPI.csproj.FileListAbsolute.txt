@@ -9,3 +9,4 @@ E:\Wise Work\tutorial\Project1\HRAdministratonAPI\obj\Debug\net9.0\HRAdministrat
 E:\Wise Work\tutorial\Project1\HRAdministratonAPI\obj\Debug\net9.0\refint\HRAdministratonAPI.dll
 E:\Wise Work\tutorial\Project1\HRAdministratonAPI\obj\Debug\net9.0\HRAdministratonAPI.pdb
 E:\Wise Work\tutorial\Project1\HRAdministratonAPI\obj\Debug\net9.0\ref\HRAdministratonAPI.dll
+E:\Wise Work\tutorial\Project1\HRAdministratonAPI\obj\Debug\net9.0\HRAdministratonAPI.sourcelink.json

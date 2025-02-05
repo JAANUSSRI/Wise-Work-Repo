@@ -16,3 +16,4 @@ E:\Wise Work\tutorial\Project1\SchoolHRAdministraton\obj\Debug\net9.0\refint\Sch
 E:\Wise Work\tutorial\Project1\SchoolHRAdministraton\obj\Debug\net9.0\SchoolHRAdministraton.pdb
 E:\Wise Work\tutorial\Project1\SchoolHRAdministraton\obj\Debug\net9.0\SchoolHRAdministraton.genruntimeconfig.cache
 E:\Wise Work\tutorial\Project1\SchoolHRAdministraton\obj\Debug\net9.0\ref\SchoolHRAdministraton.dll
+E:\Wise Work\tutorial\Project1\SchoolHRAdministraton\obj\Debug\net9.0\SchoolHRAdministraton.sourcelink.json
