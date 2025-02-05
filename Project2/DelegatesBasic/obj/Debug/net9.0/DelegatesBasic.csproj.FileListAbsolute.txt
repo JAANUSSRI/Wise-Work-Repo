@@ -1,0 +1,15 @@
+E:\Wise Work\tutorial\Project2\DelegatesBasic\bin\Debug\net9.0\DelegatesBasic.exe
+E:\Wise Work\tutorial\Project2\DelegatesBasic\bin\Debug\net9.0\DelegatesBasic.deps.json
+E:\Wise Work\tutorial\Project2\DelegatesBasic\bin\Debug\net9.0\DelegatesBasic.runtimeconfig.json
+E:\Wise Work\tutorial\Project2\DelegatesBasic\bin\Debug\net9.0\DelegatesBasic.dll
+E:\Wise Work\tutorial\Project2\DelegatesBasic\bin\Debug\net9.0\DelegatesBasic.pdb
+E:\Wise Work\tutorial\Project2\DelegatesBasic\obj\Debug\net9.0\DelegatesBasic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wise Work\tutorial\Project2\DelegatesBasic\obj\Debug\net9.0\DelegatesBasic.AssemblyInfoInputs.cache
+E:\Wise Work\tutorial\Project2\DelegatesBasic\obj\Debug\net9.0\DelegatesBasic.AssemblyInfo.cs
+E:\Wise Work\tutorial\Project2\DelegatesBasic\obj\Debug\net9.0\DelegatesBasic.csproj.CoreCompileInputs.cache
+E:\Wise Work\tutorial\Project2\DelegatesBasic\obj\Debug\net9.0\DelegatesBasic.sourcelink.json
+E:\Wise Work\tutorial\Project2\DelegatesBasic\obj\Debug\net9.0\DelegatesBasic.dll
+E:\Wise Work\tutorial\Project2\DelegatesBasic\obj\Debug\net9.0\refint\DelegatesBasic.dll
+E:\Wise Work\tutorial\Project2\DelegatesBasic\obj\Debug\net9.0\DelegatesBasic.pdb
+E:\Wise Work\tutorial\Project2\DelegatesBasic\obj\Debug\net9.0\DelegatesBasic.genruntimeconfig.cache
+E:\Wise Work\tutorial\Project2\DelegatesBasic\obj\Debug\net9.0\ref\DelegatesBasic.dll
