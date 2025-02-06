@@ -33,9 +33,17 @@ namespace DelegatesBasic
             LogDel multicastLogDel = LogTextToScreenDel + LogTextToFileDel;
             Console.Write("Kindly Enter Your Name : ");
             var name = Console.ReadLine();
-            multicastLogDel(name);
+            // multicastLogDel(name);
+            // LogText(LogTextToScreenDel, name);
+            // LogText(LogTextToFileDel, name);
+            LogText(multicastLogDel, name);
             Console.ReadKey();     
-        }       
+        }      
+
+        static void LogText(LogDel logDel, string text)
+        {
+            logDel(text);
+        }
     }
     public class Log
     {
