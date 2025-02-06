@@ -27,11 +27,13 @@ namespace DelegatesBasic
         //     }
         // }
             Log log = new Log();
-            // LogDel logdel = new LogDel(log.LogTextToScreen);
-            LogDel logdel = new LogDel(log.LogTextToFile);
+            LogDel LogTextToScreenDel, LogTextToFileDel;
+            LogTextToScreenDel = new LogDel(log.LogTextToScreen);
+            LogTextToFileDel   = new LogDel(log.LogTextToFile);
+            LogDel multicastLogDel = LogTextToScreenDel + LogTextToFileDel;
             Console.Write("Kindly Enter Your Name : ");
             var name = Console.ReadLine();
-            logdel(name);
+            multicastLogDel(name);
             Console.ReadKey();     
         }       
     }
