@@ -1,0 +1,15 @@
+E:\Wise Work\tutorial\Project4\CovarianceAndContravarianceDelegateExample\bin\Debug\net9.0\CovarianceAndContravarianceDelegateExample.exe
+E:\Wise Work\tutorial\Project4\CovarianceAndContravarianceDelegateExample\bin\Debug\net9.0\CovarianceAndContravarianceDelegateExample.deps.json
+E:\Wise Work\tutorial\Project4\CovarianceAndContravarianceDelegateExample\bin\Debug\net9.0\CovarianceAndContravarianceDelegateExample.runtimeconfig.json
+E:\Wise Work\tutorial\Project4\CovarianceAndContravarianceDelegateExample\bin\Debug\net9.0\CovarianceAndContravarianceDelegateExample.dll
+E:\Wise Work\tutorial\Project4\CovarianceAndContravarianceDelegateExample\bin\Debug\net9.0\CovarianceAndContravarianceDelegateExample.pdb
+E:\Wise Work\tutorial\Project4\CovarianceAndContravarianceDelegateExample\obj\Debug\net9.0\CovarianceAndContravarianceDelegateExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wise Work\tutorial\Project4\CovarianceAndContravarianceDelegateExample\obj\Debug\net9.0\CovarianceAndContravarianceDelegateExample.AssemblyInfoInputs.cache
+E:\Wise Work\tutorial\Project4\CovarianceAndContravarianceDelegateExample\obj\Debug\net9.0\CovarianceAndContravarianceDelegateExample.AssemblyInfo.cs
+E:\Wise Work\tutorial\Project4\CovarianceAndContravarianceDelegateExample\obj\Debug\net9.0\CovarianceAndContravarianceDelegateExample.csproj.CoreCompileInputs.cache
+E:\Wise Work\tutorial\Project4\CovarianceAndContravarianceDelegateExample\obj\Debug\net9.0\CovarianceAndContravarianceDelegateExample.sourcelink.json
+E:\Wise Work\tutorial\Project4\CovarianceAndContravarianceDelegateExample\obj\Debug\net9.0\CovarianceAndContravarianceDelegateExample.dll
+E:\Wise Work\tutorial\Project4\CovarianceAndContravarianceDelegateExample\obj\Debug\net9.0\refint\CovarianceAndContravarianceDelegateExample.dll
+E:\Wise Work\tutorial\Project4\CovarianceAndContravarianceDelegateExample\obj\Debug\net9.0\CovarianceAndContravarianceDelegateExample.pdb
+E:\Wise Work\tutorial\Project4\CovarianceAndContravarianceDelegateExample\obj\Debug\net9.0\CovarianceAndContravarianceDelegateExample.genruntimeconfig.cache
+E:\Wise Work\tutorial\Project4\CovarianceAndContravarianceDelegateExample\obj\Debug\net9.0\ref\CovarianceAndContravarianceDelegateExample.dll
