@@ -1,0 +1,12 @@
+E:\Wise Work\tutorial\Project3\FieldValidatorAPI\bin\Debug\net9.0\FieldValidatorAPI.deps.json
+E:\Wise Work\tutorial\Project3\FieldValidatorAPI\bin\Debug\net9.0\FieldValidatorAPI.dll
+E:\Wise Work\tutorial\Project3\FieldValidatorAPI\bin\Debug\net9.0\FieldValidatorAPI.pdb
+E:\Wise Work\tutorial\Project3\FieldValidatorAPI\obj\Debug\net9.0\FieldValidatorAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wise Work\tutorial\Project3\FieldValidatorAPI\obj\Debug\net9.0\FieldValidatorAPI.AssemblyInfoInputs.cache
+E:\Wise Work\tutorial\Project3\FieldValidatorAPI\obj\Debug\net9.0\FieldValidatorAPI.AssemblyInfo.cs
+E:\Wise Work\tutorial\Project3\FieldValidatorAPI\obj\Debug\net9.0\FieldValidatorAPI.csproj.CoreCompileInputs.cache
+E:\Wise Work\tutorial\Project3\FieldValidatorAPI\obj\Debug\net9.0\FieldValidatorAPI.sourcelink.json
+E:\Wise Work\tutorial\Project3\FieldValidatorAPI\obj\Debug\net9.0\FieldValidatorAPI.dll
+E:\Wise Work\tutorial\Project3\FieldValidatorAPI\obj\Debug\net9.0\refint\FieldValidatorAPI.dll
+E:\Wise Work\tutorial\Project3\FieldValidatorAPI\obj\Debug\net9.0\FieldValidatorAPI.pdb
+E:\Wise Work\tutorial\Project3\FieldValidatorAPI\obj\Debug\net9.0\ref\FieldValidatorAPI.dll
