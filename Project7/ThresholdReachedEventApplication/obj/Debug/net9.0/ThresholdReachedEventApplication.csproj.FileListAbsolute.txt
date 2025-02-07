@@ -1,0 +1,15 @@
+E:\Wise Work\tutorial\Project7\ThresholdReachedEventApplication\bin\Debug\net9.0\ThresholdReachedEventApplication.exe
+E:\Wise Work\tutorial\Project7\ThresholdReachedEventApplication\bin\Debug\net9.0\ThresholdReachedEventApplication.deps.json
+E:\Wise Work\tutorial\Project7\ThresholdReachedEventApplication\bin\Debug\net9.0\ThresholdReachedEventApplication.runtimeconfig.json
+E:\Wise Work\tutorial\Project7\ThresholdReachedEventApplication\bin\Debug\net9.0\ThresholdReachedEventApplication.dll
+E:\Wise Work\tutorial\Project7\ThresholdReachedEventApplication\bin\Debug\net9.0\ThresholdReachedEventApplication.pdb
+E:\Wise Work\tutorial\Project7\ThresholdReachedEventApplication\obj\Debug\net9.0\ThresholdReachedEventApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wise Work\tutorial\Project7\ThresholdReachedEventApplication\obj\Debug\net9.0\ThresholdReachedEventApplication.AssemblyInfoInputs.cache
+E:\Wise Work\tutorial\Project7\ThresholdReachedEventApplication\obj\Debug\net9.0\ThresholdReachedEventApplication.AssemblyInfo.cs
+E:\Wise Work\tutorial\Project7\ThresholdReachedEventApplication\obj\Debug\net9.0\ThresholdReachedEventApplication.csproj.CoreCompileInputs.cache
+E:\Wise Work\tutorial\Project7\ThresholdReachedEventApplication\obj\Debug\net9.0\ThresholdReachedEventApplication.sourcelink.json
+E:\Wise Work\tutorial\Project7\ThresholdReachedEventApplication\obj\Debug\net9.0\ThresholdReachedEventApplication.dll
+E:\Wise Work\tutorial\Project7\ThresholdReachedEventApplication\obj\Debug\net9.0\refint\ThresholdReachedEventApplication.dll
+E:\Wise Work\tutorial\Project7\ThresholdReachedEventApplication\obj\Debug\net9.0\ThresholdReachedEventApplication.pdb
+E:\Wise Work\tutorial\Project7\ThresholdReachedEventApplication\obj\Debug\net9.0\ThresholdReachedEventApplication.genruntimeconfig.cache
+E:\Wise Work\tutorial\Project7\ThresholdReachedEventApplication\obj\Debug\net9.0\ref\ThresholdReachedEventApplication.dll
