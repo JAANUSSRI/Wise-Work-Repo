@@ -1,0 +1,15 @@
+E:\Wise Work\tutorial\Project5\FuncActionPredicateExamples\bin\Debug\net9.0\FuncActionPredicateExamples.exe
+E:\Wise Work\tutorial\Project5\FuncActionPredicateExamples\bin\Debug\net9.0\FuncActionPredicateExamples.deps.json
+E:\Wise Work\tutorial\Project5\FuncActionPredicateExamples\bin\Debug\net9.0\FuncActionPredicateExamples.runtimeconfig.json
+E:\Wise Work\tutorial\Project5\FuncActionPredicateExamples\bin\Debug\net9.0\FuncActionPredicateExamples.dll
+E:\Wise Work\tutorial\Project5\FuncActionPredicateExamples\bin\Debug\net9.0\FuncActionPredicateExamples.pdb
+E:\Wise Work\tutorial\Project5\FuncActionPredicateExamples\obj\Debug\net9.0\FuncActionPredicateExamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wise Work\tutorial\Project5\FuncActionPredicateExamples\obj\Debug\net9.0\FuncActionPredicateExamples.AssemblyInfoInputs.cache
+E:\Wise Work\tutorial\Project5\FuncActionPredicateExamples\obj\Debug\net9.0\FuncActionPredicateExamples.AssemblyInfo.cs
+E:\Wise Work\tutorial\Project5\FuncActionPredicateExamples\obj\Debug\net9.0\FuncActionPredicateExamples.csproj.CoreCompileInputs.cache
+E:\Wise Work\tutorial\Project5\FuncActionPredicateExamples\obj\Debug\net9.0\FuncActionPredicateExamples.sourcelink.json
+E:\Wise Work\tutorial\Project5\FuncActionPredicateExamples\obj\Debug\net9.0\FuncActionPredicateExamples.dll
+E:\Wise Work\tutorial\Project5\FuncActionPredicateExamples\obj\Debug\net9.0\refint\FuncActionPredicateExamples.dll
+E:\Wise Work\tutorial\Project5\FuncActionPredicateExamples\obj\Debug\net9.0\FuncActionPredicateExamples.pdb
+E:\Wise Work\tutorial\Project5\FuncActionPredicateExamples\obj\Debug\net9.0\FuncActionPredicateExamples.genruntimeconfig.cache
+E:\Wise Work\tutorial\Project5\FuncActionPredicateExamples\obj\Debug\net9.0\ref\FuncActionPredicateExamples.dll
